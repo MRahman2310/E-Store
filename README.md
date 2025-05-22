@@ -1,2 +1,2 @@
 # E-Store
-Online Book Store Management System of Seller and Buyer Account
+Online Book Store Management System for seller as well as buyer
